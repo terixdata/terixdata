@@ -1,4 +1,4 @@
-<img src="Logo_Gallery.jpg" width="100">
+<img src="Logo_Gallery.jpg" width="300">
 
 
 TerixData provides program design optimization for service and product development.
