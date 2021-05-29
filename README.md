@@ -8,3 +8,5 @@ TerixData provides program design optimization for service and product developme
 <img src="Use case.jpg" width="500">
 
 <img src="New approach.jpg" width="500">
+
+Connect with TerixData through canyanwu@terixdata.com / canyanwu@hotmail.co.uk 
