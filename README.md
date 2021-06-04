@@ -9,7 +9,7 @@ TerixData provides program design optimization for service and product developme
 
 <img src="New approach.jpg" width="500">
 
-To relate more with our think check [Do more with less](Do more with less.pdf)
-also see [Decision making on steroids](Decision making on steroids.pdf)
+To relate more with our thinking check [Do more with less](www.github.com/terixdata/Paralleldesign)
+also see [Decision making on steroids](www.github.com/terixdata/Paralleldesign) 
 
 Connect with TerixData through canyanwu@terixdata.com / canyanwu@hotmail.co.uk 
