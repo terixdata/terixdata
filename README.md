@@ -1,6 +1,6 @@
-<img src="t.jpg" alt="t.jpg"> 
+<img src="\Users\Chuks\Documents\Domain\Search 1st\t.jpg" alt="t"> 
 
-
+<img src="images/screenshot2.PNG" alt="Screenshot">
 
 
 TerixData provides program design optimization for service and product development.
