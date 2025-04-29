@@ -1,5 +1,5 @@
 
-<img src="Desktop/image/t.PNG" width="300">
+<img src="\Users\Chuks\Desktop\image\t.JPG" width="300">
 
 
 
