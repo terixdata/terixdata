@@ -1,7 +1,7 @@
 
-<img src="/Users/Chuks/Desktop/image/t.JPG" width="300">
+<img src="![t](https://github.com/user-attachments/assets/5030fa51-23c6-4bf8-9284-bb29efe9d694)" width="300">
 
-![t](https://github.com/user-attachments/assets/5030fa51-23c6-4bf8-9284-bb29efe9d694)
+
 
 
 TerixData provides program design optimization for service and product development.
