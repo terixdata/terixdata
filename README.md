@@ -1,4 +1,4 @@
-<img src="\Desktop\image\t.PNG" width="300"> 
+<img src="Desktop/image/t.PNG" width="300"> 
 
 
 
