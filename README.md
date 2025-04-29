@@ -1,5 +1,5 @@
 
-![t.PNG](image/t.PNG)
+!(image/t.PNG)
 
 
 
