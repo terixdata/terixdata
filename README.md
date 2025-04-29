@@ -1,5 +1,5 @@
 
-!(image/t.PNG)
+<img src="Desktop/image/t.PNG" width="300">
 
 
 
