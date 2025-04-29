@@ -11,4 +11,4 @@ TerixData provides program design optimization for service and product developme
 
 To relate more with our thinking check (www.github.com/terixdata/Paralleldesign) 
 
-Connect with TerixData through canyanwu@terixdata.com / canyanwu@hotmail.co.uk 
+Connect with TerixData through canyanwu@hotmail.co.uk
