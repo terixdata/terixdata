@@ -1,4 +1,4 @@
-<img src="t.jpg" width="300"> 
+<img src="t.JPG" width="300"> 
 
 
 
