@@ -1,7 +1,5 @@
 
 
-![t](https://github.com/user-attachments/assets/image/t.JPG)
-
 
 
 TerixData provides program design optimization for service and product development.
