@@ -1,4 +1,6 @@
-<img src="./Search 1st/t.jpg" width="300">
+<img src="Search 1st/t.jpg" alt="Screenshot"> 
+
+
 
 
 TerixData provides program design optimization for service and product development.
