@@ -1,4 +1,4 @@
-<img src="Search 1st/t.jpg" alt="t.jpg"> 
+<img src="t.jpg" alt="t.jpg"> 
 
 
 
